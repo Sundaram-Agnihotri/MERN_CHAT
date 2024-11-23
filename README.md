@@ -4,8 +4,8 @@ The chatting and sharing website built in ReactJS for the front-end and Node js 
 2. Users can also set a profile image and bio, and their joining date will always be displayed..
 3. The pop-up message is displayed on the user's window to accept or reject a friend request sent by other registered users.
 4. Utilize Cloudinary to store files for improved accessibility.
-5. There is an Admin Page who mangages all like : user chat , groups , which user to remove from the chat.
-6. The admin aslo track all the history chats , who doing chats with visualisation help of charts , pie charts and line graphs
+5. There is an Admin Page who manages all like : user chat , groups , which user to remove from the chat.
+6. The admin also track all the history chats , who doing chats with visualization help of charts , pie charts and line graphs
 
 To grant admin privileges to a user, please visit the admin panel at https://chattu-frontend-cdjctz0gd-sundaramagnihotris-projects.vercel.app/admin and enter the secret key : **admin123
 
